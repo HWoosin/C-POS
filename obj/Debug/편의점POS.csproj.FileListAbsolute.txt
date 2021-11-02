@@ -1,0 +1,14 @@
+C:\Woosin\용인대학교 컴퓨터과학과\3학년2학기\윈도우고급심화(월,수)\프로젝트\편의점POS\편의점POS\bin\Debug\편의점POS.exe.config
+C:\Woosin\용인대학교 컴퓨터과학과\3학년2학기\윈도우고급심화(월,수)\프로젝트\편의점POS\편의점POS\bin\Debug\편의점POS.exe
+C:\Woosin\용인대학교 컴퓨터과학과\3학년2학기\윈도우고급심화(월,수)\프로젝트\편의점POS\편의점POS\bin\Debug\편의점POS.pdb
+C:\Woosin\용인대학교 컴퓨터과학과\3학년2학기\윈도우고급심화(월,수)\프로젝트\편의점POS\편의점POS\obj\Debug\편의점POS.csproj.AssemblyReference.cache
+C:\Woosin\용인대학교 컴퓨터과학과\3학년2학기\윈도우고급심화(월,수)\프로젝트\편의점POS\편의점POS\obj\Debug\편의점POS.Form1.resources
+C:\Woosin\용인대학교 컴퓨터과학과\3학년2학기\윈도우고급심화(월,수)\프로젝트\편의점POS\편의점POS\obj\Debug\편의점POS.Properties.Resources.resources
+C:\Woosin\용인대학교 컴퓨터과학과\3학년2학기\윈도우고급심화(월,수)\프로젝트\편의점POS\편의점POS\obj\Debug\편의점POS.csproj.GenerateResource.cache
+C:\Woosin\용인대학교 컴퓨터과학과\3학년2학기\윈도우고급심화(월,수)\프로젝트\편의점POS\편의점POS\obj\Debug\편의점POS.csproj.CoreCompileInputs.cache
+C:\Woosin\용인대학교 컴퓨터과학과\3학년2학기\윈도우고급심화(월,수)\프로젝트\편의점POS\편의점POS\obj\Debug\편의점POS.exe
+C:\Woosin\용인대학교 컴퓨터과학과\3학년2학기\윈도우고급심화(월,수)\프로젝트\편의점POS\편의점POS\obj\Debug\편의점POS.pdb
+C:\Woosin\용인대학교 컴퓨터과학과\3학년2학기\윈도우고급심화(월,수)\프로젝트\편의점POS\편의점POS\obj\Debug\편의점POS.Form2.resources
+C:\Woosin\용인대학교 컴퓨터과학과\3학년2학기\윈도우고급심화(월,수)\프로젝트\편의점POS\편의점POS\obj\Debug\편의점POS.Form3.resources
+C:\Woosin\용인대학교 컴퓨터과학과\3학년2학기\윈도우고급심화(월,수)\프로젝트\편의점POS\편의점POS\obj\Debug\편의점POS.Form4.resources
+C:\Woosin\용인대학교 컴퓨터과학과\3학년2학기\윈도우고급심화(월,수)\프로젝트\편의점POS\편의점POS\obj\Debug\편의점POS.Form5.resources
